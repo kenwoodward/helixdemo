@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Helix Demo
+This is my Helix/Franklin Demo Project
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
